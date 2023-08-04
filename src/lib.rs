@@ -1,3 +1,4 @@
+#![recursion_limit = "32768"]
 // Miniscript
 // Written in 2019 by
 //     Andrew Poelstra <apoelstra@wpsoftware.net>
