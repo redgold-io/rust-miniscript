@@ -1,5 +1,5 @@
 [package]
-name = "miniscript"
+name = "miniscript-debug"
 version = "9.0.1-debug"
 authors = ["Andrew Poelstra <apoelstra@wpsoftware.net>, Sanket Kanjalkar <sanket1729@gmail.com>"]
 license = "CC0-1.0"
